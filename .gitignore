@@ -1,17 +1,22 @@
-# OldFiles #
-############
+# Old files #
 testOld.*
 
+# Temporary files #
+*.swp
+*.swo
+
 # Compiled #
-############
 *.class
 *.dll
 *.exe
+*.o
+*.so
+############
 
 # Packages #
-############
 *.iso
 *.jar
 *.rar
 *.tar
 *.zip
+############
