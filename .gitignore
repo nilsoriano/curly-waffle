@@ -1,0 +1,17 @@
+# OldFiles #
+############
+testOld.*
+
+# Compiled #
+############
+*.class
+*.dll
+*.exe
+
+# Packages #
+############
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
